@@ -2,6 +2,8 @@
 
 Create custom toggle button list
 
+<img src="https://raw.githubusercontent.com/furkandamar/toggle_button_list/main/Screenshot_1615376825.png" height="500" />
+
 ## Installation
 
 pubspec.yaml : 
