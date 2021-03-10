@@ -6,6 +6,8 @@ Create custom toggle button list
 
 ## Installation
 
+pub.dev link : https://pub.dev/packages/toggle_button_list
+
 pubspec.yaml : 
 ```
 dependencies : 
