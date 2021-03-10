@@ -7,7 +7,7 @@ Create custom toggle button list
 pubspec.yaml : 
 ```
 dependencies : 
-    toggle_button_list: ^1.0.0
+    toggle_button_list: ^0.0.2
     
 ```
 ## Example
